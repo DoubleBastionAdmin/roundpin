@@ -1,6 +1,6 @@
 <p align="center"><img src="roundpin-logo.svg" alt="Roundpin Logo" /></p>
 
-**A fully featured browser phone that connects to an Asterisk server and implements audio/video calls, text messaging and video conferencing by using SIP over WebSocket and WebRTC.**
+**A fully featured browser phone that implements audio/video calling, video conferencing and text messaging using SIP over WebSocket and WebRTC. It can connect to SIP providers via Asterisk or directly.**
 
 License: GNU Affero General Public License Version 3
 
